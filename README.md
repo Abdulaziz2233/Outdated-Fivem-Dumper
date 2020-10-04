@@ -2,7 +2,7 @@
 
 #Credits to https://github.com/marcodsl for create dumper in java.
 I only made gui.
-Its outdated.
+**Its outdated.**
 
 ##Preview: https://www.youtube.com/watch?v=5b7jmD3VY9s
 
